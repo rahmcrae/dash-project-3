@@ -3,9 +3,9 @@
 ### Repository for single page dash app with interactive components. The output is a timeseries line chart of stock closing prices allowing the user to search from 100+ tickers. 
 
 ## Goal
-##### :sparkles: Create interactive visual 
-##### :sparkles: Demonstrate understanding of callbacks & interplay between multiple input/outputs
-##### :sparkles: Access financial data via API & perform light analysis
+##### :sparkles: Create interactive visual ✔️
+##### :sparkles: Demonstrate understanding of callbacks & interplay between input/outputs ✔️
+##### :sparkles: Access financial data via API & perform light analysis ✔️
 
 ---
 ## Todos
