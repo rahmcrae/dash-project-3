@@ -4,6 +4,8 @@
 
 ## Goal
 ##### :sparkles: Create interactive visual of financial data via API
+##### :sparkles: Demonstrate understanding of callbacks & interplay between multiple input/outputs
+
 
 ---
 ## Todos
