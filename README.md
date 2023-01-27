@@ -6,14 +6,13 @@
 ##### :sparkles: Create interactive visual of financial data via API
 
 ---
-## Todos:
+## Todos
 - [X] ~Create interactive visual~
 * [X] Allow user to filter by date (needs refactoring)
 ---
-## Limitations:
+## Limitations
 - Limited accessiblity with financial API Tiingo
 - Hosted locally
-
 ---
 
 #### Screenshots 
