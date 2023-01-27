@@ -1,6 +1,6 @@
 # DASH-3
 
-### Repository for single page dash app hosted on local server with interactive components. The output is a timeseries line chart of stock closing prices allowing the user to search from 100+ tickers. 
+### Repository for single page dash app with interactive components. The output is a timeseries line chart of stock closing prices allowing the user to search from 100+ tickers. 
 
 ## Goal
 ##### :sparkles: Create interactive visual 
