@@ -5,3 +5,4 @@ pandas
 numpy
 matplotlib
 flask
+pandas_datareader
