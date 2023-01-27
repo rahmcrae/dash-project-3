@@ -15,7 +15,7 @@
 - Hosted locally
 ---
 
-#### Screenshots 
+### Screenshots 
 
 APP-1: Time series chart depicting stock closing prices
 
