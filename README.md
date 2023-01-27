@@ -27,5 +27,6 @@ https://user-images.githubusercontent.com/63305557/215027831-c1aaa0c3-eb98-4165-
 ## Resources 
   https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#remote-data-tiingo
 
+## EDA 
     light analysis of Tiingo API for AMZN ticker
 ![Screenshot 2023-01-27 at 1 49 10 AM](https://user-images.githubusercontent.com/63305557/215026194-a61a441f-121b-4880-96c9-a427ec077134.png)
